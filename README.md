@@ -37,4 +37,4 @@ Needs a debrid account. NextStream is a player, not a content provider.
 
 [Home](https://comingupnext.web.app) · [Latest release](https://github.com/nextstream-admin/nextstream-release/releases/latest) · [All builds](https://github.com/nextstream-admin/nextstream-release/releases) · [Issues](https://github.com/nextstream-admin/nextstream-release/issues)
 
-<p align="center"><img src="./assets/icon.svg" width="22" height="22" alt=""> <sub>NextStream · Press play.</sub></p>
+<p align="center"><img src="./assets/icon.svg" width="22" height="22" alt=""> <sub>NextStream</sub></p>
